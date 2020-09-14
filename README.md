@@ -16,8 +16,8 @@
 </p>
 
 
-<h3 align="center>
-  I really like music :headphones:
+<h3 align="center">
+  I'll be listening to music if I'm working (or not) :headphones:
 </h3>
 
 <!-- Nothing weird to see here -->
