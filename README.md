@@ -12,6 +12,8 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiklodh&show_icons=true" alt="abhiklodh" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center"> 
 <a href="https://twitter.com/lodhabhik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lodhabhik" height="30" width="30" /></a>
 <a href="https://instagram.com/abh.ik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abh.ik" height="30" width="30" /></a>
