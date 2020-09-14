@@ -10,7 +10,10 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhiklodh&show_icons=true&theme=onedark" alt="abhiklodh" /></p>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhiklodh&theme=onedark)](https://github.com/abhiklodh)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhiklodh&theme=onedark">
+</p>
 
 <h5 align="center>
   i really like music :headphones:
