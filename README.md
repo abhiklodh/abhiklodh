@@ -6,18 +6,18 @@
 - 🌱 I’m currently learning **AI and ML, CSS Animations, Express.js and Mongo DB**
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiklodh&layout=compact&theme=onedark" alt="abhiklodh" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiklodh&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="abhiklodh" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiklodh&show_icons=true&theme=onedark" alt="abhiklodh" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiklodh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="abhiklodh" /></p>
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiklodh&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhiklodh&theme=dracula">
 </p>
 
-<h5 align="center>
-  i really like music :headphones:
-</h5>
+<h3 align="center>
+  I really like music :headphones:
+</h3>
 
 <!-- Nothing weird to see here -->
 <p align="center">
