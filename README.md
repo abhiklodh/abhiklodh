@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning **AI and ML, CSS Animations, Express.js and Mongo DB**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiklodh&layout=compact&theme=onedark" alt="abhiklodh" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiklodh&layout=compact&theme=onedark" alt="abhiklodh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiklodh&show_icons=true&theme=onedark" alt="abhiklodh" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiklodh&show_icons=true&theme=onedark" alt="abhiklodh" /></p>
 <br>
 
 <p align="center">
