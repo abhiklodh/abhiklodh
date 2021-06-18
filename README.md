@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhik</h1>
-<h3 align="center">Floor gang</h3>
+<!--<h3 align="center">Floor gang</h3>-->
 
 <p> <img align="left" src="https://komarev.com/ghpvc/?username=abhiklodh" alt="abhiklodh" />
 
