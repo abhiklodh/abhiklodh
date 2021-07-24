@@ -20,7 +20,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **AI and ML, CSS Animations, Express.js and Mongo DB**
+- 🌱 I’m currently learning **Computer Vision ML, CSS Animations, React.js**
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiklodh&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="abhiklodh" /></p>
