@@ -28,11 +28,16 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiklodh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="abhiklodh" /></p>
 <br>
 
+<!--
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiklodh&theme=github_dark">
+</p>
+-->
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhiklodh&theme=dracula">
 </p>
-
-
+                                                                                                                        
 <h3 align="center">
   I'll be listening to music if I'm working (or not) :headphones:
 </h3>
