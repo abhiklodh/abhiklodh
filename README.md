@@ -34,8 +34,14 @@
 </p>
 -->
 
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhiklodh&theme=dracula">
+</p>
+-->
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=abhiklodh&theme=dark" alt="abhiklodh" />
 </p>
                                                                                                                         
 <h3 align="center">
