@@ -12,7 +12,7 @@
 <a href="https://www.reddit.com/user/abhiklodh">
   <img align="left" alt="Abhik's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
-<a href="https://open.spotify.com/user/22b5uho2hk4d6xqafn6kgjjdq">
+<a href="https://open.spotify.com/artist/3G3c8FGxK3GVytjCEe474R">
   <img align="left" alt="Abhik's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
  </p>
